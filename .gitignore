@@ -1,1 +1,20 @@
-print("Hello world")
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.venv/
+
+# Visual Studio / Visual Studio Code
+.vscode/
+.vs/
+
+# Entornos y packing
+dist/
+build/
+
+# Config local sensible
+.env
+.DS_Store
